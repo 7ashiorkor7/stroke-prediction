@@ -15,11 +15,11 @@ The aim was to predict the factors influencing stroke.
 * Jupyter Notebook
 
 * The project used the following packages:
-* pandas (import pandas as pd)
-* numpy (import numpy as np)
-* seaborn (import seaborn as sns)
-* matplotlib (import matplotlib.pyplot as plt)
-* Scikit-learn
+  * pandas (import pandas as pd)
+  * numpy (import numpy as np)
+  * seaborn (import seaborn as sns)
+  * matplotlib (import matplotlib.pyplot as plt)
+  * Scikit-learn
 
 ## Results
 After training the data using a Random Forest Classifier Algorithm, I determined the the most important features. Then, I predicted the target variable(stroke) for the test data using the model built.
