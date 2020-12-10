@@ -14,7 +14,7 @@ The aim was to predict the factors influencing stroke.
 * Python 
 * Jupyter Notebook
 
-*The project used the following packages:
+* The project used the following packages:
 * pandas (import pandas as pd)
 * numpy (import numpy as np)
 * seaborn (import seaborn as sns)
